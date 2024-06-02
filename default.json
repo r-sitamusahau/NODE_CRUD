@@ -1,0 +1,17 @@
+{
+    "server":{
+        "port":5000,
+        "host":"localhost"
+    },
+    "tokens":{
+        "ACCESS_TOKEN":"babou",
+        "REFRESH_TOKEN":"prince"
+    },
+    "database":{
+        "url":"mongodb://127.0.0.1/testdb"
+    },
+    "roles":{
+        "admin":1122,
+        "employee":1020
+    }
+ }
